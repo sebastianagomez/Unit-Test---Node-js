@@ -7,6 +7,8 @@
 ## Necessary installations to test:
 
 - npm install --global mocha
+- npm install mongoose
+- npm install express
 - npm install --save-dev chai
 - npm install --save-dev cross-env
 - npm install --save-dev chai-as-promised
